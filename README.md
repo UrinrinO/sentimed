@@ -12,5 +12,3 @@ This is the AI Health project repository.
 - `scripts/`: Utility scripts
 
 ## Getting Started
-
-TODO: Add setup instructions
