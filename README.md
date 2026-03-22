@@ -1,5 +1,9 @@
 # SentiMed
 
+## 🖥️ SentiMed — Home Interface
+
+![SentiMed Home](docs/assets/homepage.png)
+
 An AI-powered health case management application.
 
 ## Tech Stack
@@ -97,7 +101,3 @@ UPLOAD_DIR=uploads
 ## Contributing
 
 See [docs/CONTRIBUTING.md](docs/CONTRIBUTING.md) for commit conventions and branch naming.
-
-## 🖥️ SentiMed — Home Interface
-
-![SentiMed Home](docs/assets/homepage.png)
